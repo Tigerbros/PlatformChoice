@@ -1,4 +1,4 @@
-# Ecommerce Contract Simulation
+# Platform Choice
 
 ## Overview
 I have been hired to help the company decide whether to focus their efforts on their **Mobile App** experience or their **Website**.
